@@ -1,0 +1,47 @@
+
+h1
+{
+    color: red;
+}
+h3
+{
+    color: aqua;
+}
+h5{
+    color: blue;
+}
+#full
+{
+    color: beige;
+    background-color: green;
+
+}
+p{
+    background-color: blueviolet;
+}
+button:hover
+{
+    background-color: brown;
+    size: 2cm;
+}
+body{
+    
+    border: 10px;
+    border-color: blue;
+    border-style: dotted;
+}
+*
+{
+    background-color: bisque;
+    align-content: center;
+}
+body {
+    padding-top: 150px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 150px;
+  }
+  body{
+    height
+  }
+
